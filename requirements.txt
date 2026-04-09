@@ -1,0 +1,25 @@
+# Procesamiento Digital de Imagenes - Dependencias
+# Instalar con: python -m pip install -r requirements.txt
+
+# Librerias centrales de procesamiento de imagenes
+numpy>=1.24.0
+scipy>=1.11.0
+opencv-python>=4.8.0
+scikit-image>=0.21.0
+Pillow>=10.0.0
+
+# Visualizacion
+matplotlib>=3.7.0
+
+# Cuadernos y entorno interactivo
+jupyter>=1.0.0
+ipykernel>=6.29.0
+watermark>=2.4.3
+
+# Introduccion visual (unidades iniciales)
+# Nota: py5 requiere Java. Ver https://py5coding.org/content/install.html
+py5
+
+# Nota para ejecucion local:
+# `google.colab.patches` se usa solo en Colab y no forma parte
+# de las dependencias necesarias en un entorno Python local.
