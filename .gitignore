@@ -43,7 +43,6 @@ Thumbs.db
 
 # Proyecto - archivos generados
 *.png
-*.jpg
 *.jpeg
 *.gif
 *.bmp
